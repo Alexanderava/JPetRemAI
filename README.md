@@ -62,9 +62,36 @@ with socket.create_connection((HOST, PORT), timeout=120) as s:
 
 ---
 
+## 🛠️ Open Source Dependencies
+
+This project uses the following open source libraries:
+
+| Library | License | Description |
+|---------|---------|-------------|
+| [Shimeji-ee](https://github.com/hyakumeguri/shimeji-ee) | BSD | Desktop mascot engine |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | MIT | LLM inference engine |
+| [Javassist](https://www.jboss.org/javassist) | MPL/LGPL | Java bytecode manipulation |
+| [FlatLaf](https://www.formdev.com/flatlaf/) | Apache 2.0 | Modern Swing UI theme |
+| [CFR](https://github.com/leibnitz27/cfr) | MIT | Java decompiler |
+
+See [THIRD-PARTY.md](THIRD-PARTY.md) for full attribution.
+
+---
+
+## ⚠️ Character Resources
+
+Built-in character sprites are **original works** and **NOT** open source. They include:
+- 蕾姆 / 拉姆 - © Nie R
+- 三笠 - © Hajime Isayama
+- 初音未来 - © Crypton Future Media
+
+> For personal/educational use only. Please respect copyright laws.
+
+---
+
 ## 📄 License
 
-MIT License - See LICENSE file for details.
+MIT License - See [LICENSE](LICENSE) file for details.
 
 ---
 
