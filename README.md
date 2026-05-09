@@ -27,6 +27,14 @@
 
 ---
 
+## 📸 Screenshots
+
+![Console Update 1](screenshots/console1.png)
+
+![Console Update 2](screenshots/console2.png)
+
+---
+
 ## 📥 Installation
 
 ### Prerequisites
