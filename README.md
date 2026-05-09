@@ -80,12 +80,17 @@ See [THIRD-PARTY.md](THIRD-PARTY.md) for full attribution.
 
 ## ⚠️ Character Resources
 
-Built-in character sprites are **original works** and **NOT** open source. They include:
+### Character Source
+Character sprites are downloaded from [shimejimascot.com](https://www.shimejimascot.com), a community-driven Shimeji mascot platform. Users can search and download various character packs from this website.
+
+### Copyright Notice
+Built-in characters include:
 - 蕾姆 / 拉姆 - © Nie R
 - 三笠 - © Hajime Isayama
 - 初音未来 - © Crypton Future Media
+- Other anime characters
 
-> For personal/educational use only. Please respect copyright laws.
+> **Important**: Characters downloaded from shimejimascot.com are for **personal use only**. Please respect the original creators' copyright and terms of use. Commercial use is strictly prohibited.
 
 ---
 
