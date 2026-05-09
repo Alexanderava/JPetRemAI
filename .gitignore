@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build
+*.class
+*.jar
+*.log
+
+# Temporary
+*.tmp
+*.bak
+*~

@@ -1,0 +1,10 @@
+{
+  "_schema": {"per_character_fields": "[level", "version": 2},
+  "日向雏田": {"thirst": 80, "mood": 0, "level": 1, "health": 100, "clean": 0, "totalPet": 0, "hunger": 0, "lastSave": 1776211030303, "totalFeed": 0, "exp": 0, "fun": 0, "energy": 0, "affinity": 30},
+  "甘露寺蜜璃": {"thirst": 0, "mood": 0, "level": 3, "health": 0, "clean": 0, "totalPet": 7, "hunger": 0, "lastSave": 1776233314074, "totalFeed": 5, "exp": 80, "fun": 0, "energy": 0, "affinity": 95},
+  "云母Kiara": {"thirst": 82, "mood": 82, "level": 2, "health": 100, "clean": 82, "totalPet": 3, "hunger": 82, "lastSave": 1776713977716, "totalFeed": 0, "exp": 32, "fun": 82, "energy": 72, "affinity": 85},
+  "蕾姆": {"thirst": 0, "mood": 0, "level": 1, "health": 0, "clean": 0, "totalPet": 0, "hunger": 0, "lastSave": 1776493098632, "totalFeed": 0, "exp": 49, "fun": 0, "energy": 0, "affinity": 52},
+  "漩涡鸣人": {"thirst": 80, "mood": 80, "level": 1, "health": 100, "clean": 80, "totalPet": 0, "hunger": 80, "lastSave": 1776774790381, "totalFeed": 0, "exp": 0, "fun": 70, "energy": 90, "affinity": 30},
+  "奇犽": {"thirst": 80, "mood": 60, "level": 1, "health": 100, "clean": 50, "totalPet": 0, "hunger": 30, "lastSave": 1776509644239, "totalFeed": 0, "exp": 26, "fun": 28, "energy": 52, "affinity": 33},
+  "_defaults": {"totalFeed": 0, "mood": 80, "level": 1, "clean": 80, "exp": 0, "totalPet": 0, "fun": 70, "hunger": 80, "energy": 90, "affinity": 30}
+}
