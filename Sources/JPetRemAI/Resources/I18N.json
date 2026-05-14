@@ -1,0 +1,1912 @@
+{
+  "tab.general": {
+    "zh-CN": "通用",
+    "zh-TW": "一般",
+    "ja-JP": "一般",
+    "en-US": "General",
+    "ko-KR": "일반",
+    "de-DE": "Allgemein",
+    "fr-FR": "Général",
+    "es-ES": "General"
+  },
+  "tab.ai_model": {
+    "zh-CN": "AI 模型",
+    "zh-TW": "AI 模型",
+    "ja-JP": "AIモデル",
+    "en-US": "AI Models",
+    "ko-KR": "AI 모델",
+    "de-DE": "KI-Modelle",
+    "fr-FR": "Modèles IA",
+    "es-ES": "Modelos IA"
+  },
+  "tab.appearance": {
+    "zh-CN": "外观",
+    "zh-TW": "外觀",
+    "ja-JP": "外観",
+    "en-US": "Appearance",
+    "ko-KR": "외관",
+    "de-DE": "Erscheinungsbild",
+    "fr-FR": "Apparence",
+    "es-ES": "Apariencia"
+  },
+  "tab.shortcuts": {
+    "zh-CN": "快捷键",
+    "zh-TW": "快捷鍵",
+    "ja-JP": "ショートカット",
+    "en-US": "Shortcuts",
+    "ko-KR": "단축키",
+    "de-DE": "Tastenkombinationen",
+    "fr-FR": "Raccourcis",
+    "es-ES": "Atajos"
+  },
+  "settings.language": {
+    "zh-CN": "语言设置",
+    "zh-TW": "語言設定",
+    "ja-JP": "言語設定",
+    "en-US": "Language",
+    "ko-KR": "언어 설정",
+    "de-DE": "Sprache",
+    "fr-FR": "Langue",
+    "es-ES": "Idioma"
+  },
+  "settings.interface": {
+    "zh-CN": "界面语言",
+    "zh-TW": "界面語言",
+    "ja-JP": "インターフェース言語",
+    "en-US": "Interface Language",
+    "ko-KR": "인터페이스 언어",
+    "de-DE": "Oberflächensprache",
+    "fr-FR": "Langue de l'interface",
+    "es-ES": "Idioma de interfaz"
+  },
+  "settings.startup": {
+    "zh-CN": "启动行为",
+    "zh-TW": "啟動行為",
+    "ja-JP": "起動動作",
+    "en-US": "Startup",
+    "ko-KR": "시작 동작",
+    "de-DE": "Startverhalten",
+    "fr-FR": "Démarrage",
+    "es-ES": "Inicio"
+  },
+  "settings.autostart": {
+    "zh-CN": "开机自动启动",
+    "zh-TW": "開機自動啟動",
+    "ja-JP": "起動時に自動起動",
+    "en-US": "Launch at Login",
+    "ko-KR": "로그인 시 자동 시작",
+    "de-DE": "Beim Anmelden starten",
+    "fr-FR": "Lancer à l'ouverture",
+    "es-ES": "Iniciar con el sistema"
+  },
+  "settings.restore_pets": {
+    "zh-CN": "启动恢复上次角色",
+    "zh-TW": "啟動恢復上次角色",
+    "ja-JP": "起動時に前回のキャラを復元",
+    "en-US": "Restore Previous Pets",
+    "ko-KR": "이전 펫 복원",
+    "de-DE": "Vorherige Haustiere wiederherstellen",
+    "fr-FR": "Restaurer les animaux précédents",
+    "es-ES": "Restaurar mascotas anteriores"
+  },
+  "settings.system_status": {
+    "zh-CN": "系统状态",
+    "zh-TW": "系統狀態",
+    "ja-JP": "システム状態",
+    "en-US": "System Status",
+    "ko-KR": "시스템 상태",
+    "de-DE": "Systemstatus",
+    "fr-FR": "État du système",
+    "es-ES": "Estado del sistema"
+  },
+  "settings.feedback": {
+    "zh-CN": "反馈邮箱",
+    "zh-TW": "反饋郵箱",
+    "ja-JP": "フィードバックメール",
+    "en-US": "Feedback Email",
+    "ko-KR": "피드백 이메일",
+    "de-DE": "Feedback-E-Mail",
+    "fr-FR": "Email de retour",
+    "es-ES": "Correo de comentarios"
+  },
+  "settings.support": {
+    "zh-CN": "支持作者",
+    "zh-TW": "支持作者",
+    "ja-JP": "作者を支援",
+    "en-US": "Support Author",
+    "ko-KR": "작가 지원",
+    "de-DE": "Autor unterstützen",
+    "fr-FR": "Soutenir l'auteur",
+    "es-ES": "Apoyar al autor"
+  },
+  "settings.view_qrcode": {
+    "zh-CN": "点击查看收款码",
+    "zh-TW": "點擊查看收款碼",
+    "ja-JP": "QRコードを表示",
+    "en-US": "View QR Code",
+    "ko-KR": "QR 코드 보기",
+    "de-DE": "QR-Code anzeigen",
+    "fr-FR": "Voir le QR Code",
+    "es-ES": "Ver código QR"
+  },
+  "settings.close": {
+    "zh-CN": "关闭",
+    "zh-TW": "關閉",
+    "ja-JP": "閉じる",
+    "en-US": "Close",
+    "ko-KR": "닫기",
+    "de-DE": "Schließen",
+    "fr-FR": "Fermer",
+    "es-ES": "Cerrar"
+  },
+  "settings.dark_mode": {
+    "zh-CN": "深色模式",
+    "zh-TW": "深色模式",
+    "ja-JP": "ダークモード",
+    "en-US": "Dark Mode",
+    "ko-KR": "다크 모드",
+    "de-DE": "Dunkelmodus",
+    "fr-FR": "Mode sombre",
+    "es-ES": "Modo oscuro"
+  },
+  "settings.ai_settings": {
+    "zh-CN": "AI 配置",
+    "zh-TW": "AI 配置",
+    "ja-JP": "AI 設定",
+    "en-US": "AI Settings",
+    "ko-KR": "AI 설정",
+    "de-DE": "KI-Einstellungen",
+    "fr-FR": "Paramètres IA",
+    "es-ES": "Configuración IA"
+  },
+  "settings.server_port": {
+    "zh-CN": "llama.cpp 端口",
+    "zh-TW": "llama.cpp 端口",
+    "ja-JP": "llama.cpp ポート",
+    "en-US": "llama.cpp Port",
+    "ko-KR": "llama.cpp 포트",
+    "de-DE": "llama.cpp Port",
+    "fr-FR": "Port llama.cpp",
+    "es-ES": "Puerto llama.cpp"
+  },
+  "settings.llama_service": {
+    "zh-CN": "llama.cpp 服务",
+    "zh-TW": "llama.cpp 服務",
+    "ja-JP": "llama.cpp サービス",
+    "en-US": "llama.cpp Service",
+    "ko-KR": "llama.cpp 서비스",
+    "de-DE": "llama.cpp Dienst",
+    "fr-FR": "Service llama.cpp",
+    "es-ES": "Servicio llama.cpp"
+  },
+  "settings.start_server": {
+    "zh-CN": "启动服务器",
+    "zh-TW": "啟動服務器",
+    "ja-JP": "サーバー起動",
+    "en-US": "Start Server",
+    "ko-KR": "서버 시작",
+    "de-DE": "Server starten",
+    "fr-FR": "Démarrer le serveur",
+    "es-ES": "Iniciar servidor"
+  },
+  "settings.stop_server": {
+    "zh-CN": "停止服务器",
+    "zh-TW": "停止服務器",
+    "ja-JP": "サーバー停止",
+    "en-US": "Stop Server",
+    "ko-KR": "서버 중지",
+    "de-DE": "Server stoppen",
+    "fr-FR": "Arrêter le serveur",
+    "es-ES": "Detener servidor"
+  },
+  "settings.hf_mirror": {
+    "zh-CN": "HuggingFace 镜像",
+    "zh-TW": "HuggingFace 鏡像",
+    "ja-JP": "HuggingFace ミラー",
+    "en-US": "HuggingFace Mirror",
+    "ko-KR": "HuggingFace 미러",
+    "de-DE": "HuggingFace Spiegel",
+    "fr-FR": "Miroir HuggingFace",
+    "es-ES": "Mirror HuggingFace"
+  },
+  "settings.hf_use_off": {
+    "zh-CN": "使用官方源",
+    "zh-TW": "使用官方源",
+    "ja-JP": "公式ソースを使用",
+    "en-US": "Use Official Source",
+    "ko-KR": "공식 소스 사용",
+    "de-DE": "Offizielle Quelle",
+    "fr-FR": "Source officielle",
+    "es-ES": "Fuente oficial"
+  },
+  "settings.hf_use_mirror": {
+    "zh-CN": "使用 hf-mirror.com",
+    "zh-TW": "使用 hf-mirror.com",
+    "ja-JP": "hf-mirror.comを使用",
+    "en-US": "Use hf-mirror.com",
+    "ko-KR": "hf-mirror.com 사용",
+    "de-DE": "hf-mirror.com verwenden",
+    "fr-FR": "Utiliser hf-mirror.com",
+    "es-ES": "Usar hf-mirror.com"
+  },
+  "settings.hf_mirror_url": {
+    "zh-CN": "镜像地址",
+    "zh-TW": "鏡像地址",
+    "ja-JP": "ミラーURL",
+    "en-US": "Mirror URL",
+    "ko-KR": "미러 URL",
+    "de-DE": "Spiegel-URL",
+    "fr-FR": "URL miroir",
+    "es-ES": "URL espejo"
+  },
+  "settings.accel": {
+    "zh-CN": "加速设置",
+    "zh-TW": "加速設定",
+    "ja-JP": "アクセラレーション",
+    "en-US": "Acceleration",
+    "ko-KR": "가속 설정",
+    "de-DE": "Beschleunigung",
+    "fr-FR": "Accélération",
+    "es-ES": "Aceleración"
+  },
+  "settings.use_mlx": {
+    "zh-CN": "MLX 引擎 (推荐)",
+    "zh-TW": "MLX 引擎 (推薦)",
+    "ja-JP": "MLX エンジン (推奨)",
+    "en-US": "MLX Engine (Recommended)",
+    "ko-KR": "MLX 엔진 (권장)",
+    "de-DE": "MLX Engine (Empfohlen)",
+    "fr-FR": "Moteur MLX (recommandé)",
+    "es-ES": "Motor MLX (recomendado)"
+  },
+  "settings.use_llama": {
+    "zh-CN": "llama.cpp 引擎",
+    "zh-TW": "llama.cpp 引擎",
+    "ja-JP": "llama.cpp エンジン",
+    "en-US": "llama.cpp Engine",
+    "ko-KR": "llama.cpp 엔진",
+    "de-DE": "llama.cpp Engine",
+    "fr-FR": "Moteur llama.cpp",
+    "es-ES": "Motor llama.cpp"
+  },
+  "models.title": {
+    "zh-CN": "模型管理",
+    "zh-TW": "模型管理",
+    "ja-JP": "モデル管理",
+    "en-US": "Models",
+    "ko-KR": "모델 관리",
+    "de-DE": "Modelle",
+    "fr-FR": "Modèles",
+    "es-ES": "Modelos"
+  },
+  "models.community": {
+    "zh-CN": "社区模型",
+    "zh-TW": "社區模型",
+    "ja-JP": "コミュニティモデル",
+    "en-US": "Community Models",
+    "ko-KR": "커뮤니티 모델",
+    "de-DE": "Community-Modelle",
+    "fr-FR": "Modèles communautaires",
+    "es-ES": "Modelos comunitarios"
+  },
+  "models.local": {
+    "zh-CN": "本地模型",
+    "zh-TW": "本地模型",
+    "ja-JP": "ローカルモデル",
+    "en-US": "Local Models",
+    "ko-KR": "로컬 모델",
+    "de-DE": "Lokale Modelle",
+    "fr-FR": "Modèles locaux",
+    "es-ES": "Modelos locales"
+  },
+  "models.mlx_models": {
+    "zh-CN": "MLX 模型",
+    "zh-TW": "MLX 模型",
+    "ja-JP": "MLX モデル",
+    "en-US": "MLX Models",
+    "ko-KR": "MLX 모델",
+    "de-DE": "MLX-Modelle",
+    "fr-FR": "Modèles MLX",
+    "es-ES": "Modelos MLX"
+  },
+  "models.gguf_models": {
+    "zh-CN": "GGUF 模型",
+    "zh-TW": "GGUF 模型",
+    "ja-JP": "GGUF モデル",
+    "en-US": "GGUF Models",
+    "ko-KR": "GGUF 모델",
+    "de-DE": "GGUF-Modelle",
+    "fr-FR": "Modèles GGUF",
+    "es-ES": "Modelos GGUF"
+  },
+  "models.download": {
+    "zh-CN": "下载",
+    "zh-TW": "下載",
+    "ja-JP": "ダウンロード",
+    "en-US": "Download",
+    "ko-KR": "다운로드",
+    "de-DE": "Herunterladen",
+    "fr-FR": "Télécharger",
+    "es-ES": "Descargar"
+  },
+  "models.deleting": {
+    "zh-CN": "删除中…",
+    "zh-TW": "刪除中…",
+    "ja-JP": "削除中…",
+    "en-US": "Deleting…",
+    "ko-KR": "삭제 중…",
+    "de-DE": "Wird gelöscht…",
+    "fr-FR": "Suppression…",
+    "es-ES": "Eliminando…"
+  },
+  "models.storage": {
+    "zh-CN": "存储占用",
+    "zh-TW": "儲存佔用",
+    "ja-JP": "ストレージ使用量",
+    "en-US": "Storage",
+    "ko-KR": "저장 공간",
+    "de-DE": "Speicher",
+    "fr-FR": "Stockage",
+    "es-ES": "Almacenamiento"
+  },
+  "models.import": {
+    "zh-CN": "导入模型",
+    "zh-TW": "導入模型",
+    "ja-JP": "モデルをインポート",
+    "en-US": "Import Model",
+    "ko-KR": "모델 가져오기",
+    "de-DE": "Modell importieren",
+    "fr-FR": "Importer le modèle",
+    "es-ES": "Importar modelo"
+  },
+  "models.import_desc": {
+    "zh-CN": "导入 GGUF 模型文件",
+    "zh-TW": "導入 GGUF 模型檔案",
+    "ja-JP": "GGUFモデルをインポート",
+    "en-US": "Import GGUF Model File",
+    "ko-KR": "GGUF 모델 파일 가져오기",
+    "de-DE": "GGUF-Modelldatei importieren",
+    "fr-FR": "Importer fichier GGUF",
+    "es-ES": "Importar archivo GGUF"
+  },
+  "models.search": {
+    "zh-CN": "搜索模型…",
+    "zh-TW": "搜尋模型…",
+    "ja-JP": "モデルを検索…",
+    "en-US": "Search models…",
+    "ko-KR": "모델 검색…",
+    "de-DE": "Modelle suchen…",
+    "fr-FR": "Rechercher des modèles…",
+    "es-ES": "Buscar modelos…"
+  },
+  "models.refreshing": {
+    "zh-CN": "刷新中…",
+    "zh-TW": "刷新中…",
+    "ja-JP": "更新中…",
+    "en-US": "Refreshing…",
+    "ko-KR": "새로고침 중…",
+    "de-DE": "Aktualisieren…",
+    "fr-FR": "Actualisation…",
+    "es-ES": "Actualizando…"
+  },
+  "models.name": {
+    "zh-CN": "名称",
+    "zh-TW": "名稱",
+    "ja-JP": "名前",
+    "en-US": "Name",
+    "ko-KR": "이름",
+    "de-DE": "Name",
+    "fr-FR": "Nom",
+    "es-ES": "Nombre"
+  },
+  "models.size": {
+    "zh-CN": "大小",
+    "zh-TW": "大小",
+    "ja-JP": "サイズ",
+    "en-US": "Size",
+    "ko-KR": "크기",
+    "de-DE": "Größe",
+    "fr-FR": "Taille",
+    "es-ES": "Tamaño"
+  },
+  "models.date": {
+    "zh-CN": "日期",
+    "zh-TW": "日期",
+    "ja-JP": "日付",
+    "en-US": "Date",
+    "ko-KR": "날짜",
+    "de-DE": "Datum",
+    "fr-FR": "Date",
+    "es-ES": "Fecha"
+  },
+  "pets.title": {
+    "zh-CN": "角色召唤",
+    "zh-TW": "角色召喚",
+    "ja-JP": "キャラ召喚",
+    "en-US": "Mascots",
+    "ko-KR": "캐릭터 소환",
+    "de-DE": "Maskottchen",
+    "fr-FR": "Mascottes",
+    "es-ES": "Mascotas"
+  },
+  "pets.all": {
+    "zh-CN": "全部",
+    "zh-TW": "全部",
+    "ja-JP": "すべて",
+    "en-US": "All",
+    "ko-KR": "전체",
+    "de-DE": "Alle",
+    "fr-FR": "Tous",
+    "es-ES": "Todos"
+  },
+  "pets.dismiss_all": {
+    "zh-CN": " 遣散全部",
+    "zh-TW": " 遣散全部",
+    "ja-JP": " 全員解散",
+    "en-US": " Dismiss All",
+    "ko-KR": " 전체 해산",
+    "de-DE": " Alle entfernen",
+    "fr-FR": " Tout renvoyer",
+    "es-ES": " Despedir a todos"
+  },
+  "pets.summon": {
+    "zh-CN": "召唤",
+    "zh-TW": "召喚",
+    "ja-JP": "召喚",
+    "en-US": "Summon",
+    "ko-KR": "소환",
+    "de-DE": "Beschwören",
+    "fr-FR": "Invoquer",
+    "es-ES": "Invocar"
+  },
+  "pets.summon_n": {
+    "zh-CN": "召唤 ",
+    "zh-TW": "召喚 ",
+    "ja-JP": "召喚 ",
+    "en-US": "Summon ",
+    "ko-KR": "소환 ",
+    "de-DE": "Beschwöre ",
+    "fr-FR": "Invoquer ",
+    "es-ES": "Invocar "
+  },
+  "pets.summon_batch": {
+    "zh-CN": " 批量召唤",
+    "zh-TW": " 批量召喚",
+    "ja-JP": " 一括召喚",
+    "en-US": " Batch Summon",
+    "ko-KR": " 일괄 소환",
+    "de-DE": " Stapel-Beschwörung",
+    "fr-FR": " Invoquer par lot",
+    "es-ES": " Invocar por lote"
+  },
+  "pets.cancel": {
+    "zh-CN": "取消",
+    "zh-TW": "取消",
+    "ja-JP": "キャンセル",
+    "en-US": "Cancel",
+    "ko-KR": "취소",
+    "de-DE": "Abbrechen",
+    "fr-FR": "Annuler",
+    "es-ES": "Cancelar"
+  },
+  "chat.title": {
+    "zh-CN": "AI 对话",
+    "zh-TW": "AI 對話",
+    "ja-JP": "AI チャット",
+    "en-US": "AI Chat",
+    "ko-KR": "AI 채팅",
+    "de-DE": "KI-Chat",
+    "fr-FR": "Chat IA",
+    "es-ES": "Chat IA"
+  },
+  "chat.placeholder": {
+    "zh-CN": "发送消息给蕾姆…",
+    "zh-TW": "發送消息給蕾姆…",
+    "ja-JP": "レムにメッセージ…",
+    "en-US": "Message Rem…",
+    "ko-KR": "렘에게 메시지…",
+    "de-DE": "Nachricht an Rem…",
+    "fr-FR": "Message à Rem…",
+    "es-ES": "Mensaje a Rem…"
+  },
+  "chat.send": {
+    "zh-CN": "发送",
+    "zh-TW": "發送",
+    "ja-JP": "送信",
+    "en-US": "Send",
+    "ko-KR": "보내기",
+    "de-DE": "Senden",
+    "fr-FR": "Envoyer",
+    "es-ES": "Enviar"
+  },
+  "chat.temperature": {
+    "zh-CN": "Temperature",
+    "zh-TW": "Temperature",
+    "ja-JP": "Temperature",
+    "en-US": "Temperature",
+    "ko-KR": "Temperature",
+    "de-DE": "Temperature",
+    "fr-FR": "Température",
+    "es-ES": "Temperatura"
+  },
+  "chat.copy_code": {
+    "zh-CN": "复制",
+    "zh-TW": "複製",
+    "ja-JP": "コピー",
+    "en-US": "Copy",
+    "ko-KR": "복사",
+    "de-DE": "Kopieren",
+    "fr-FR": "Copier",
+    "es-ES": "Copiar"
+  },
+  "chat.copied": {
+    "zh-CN": "已复制",
+    "zh-TW": "已複製",
+    "ja-JP": "コピーしました",
+    "en-US": "Copied",
+    "ko-KR": "복사됨",
+    "de-DE": "Kopiert",
+    "fr-FR": "Copié",
+    "es-ES": "Copiado"
+  },
+  "chat.new_chat": {
+    "zh-CN": "新建对话",
+    "zh-TW": "新建對話",
+    "ja-JP": "新しい会話",
+    "en-US": "New Chat",
+    "ko-KR": "새 채팅",
+    "de-DE": "Neuer Chat",
+    "fr-FR": "Nouveau chat",
+    "es-ES": "Nuevo chat"
+  },
+  "chat.history": {
+    "zh-CN": "历史会话",
+    "zh-TW": "歷史會話",
+    "ja-JP": "会話履歴",
+    "en-US": "History",
+    "ko-KR": "대화 기록",
+    "de-DE": "Verlauf",
+    "fr-FR": "Historique",
+    "es-ES": "Historial"
+  },
+  "chat.load": {
+    "zh-CN": "加载",
+    "zh-TW": "載入",
+    "ja-JP": "読み込む",
+    "en-US": "Load",
+    "ko-KR": "불러오기",
+    "de-DE": "Laden",
+    "fr-FR": "Charger",
+    "es-ES": "Cargar"
+  },
+  "chat.delete": {
+    "zh-CN": "删除",
+    "zh-TW": "刪除",
+    "ja-JP": "削除",
+    "en-US": "Delete",
+    "ko-KR": "삭제",
+    "de-DE": "Löschen",
+    "fr-FR": "Supprimer",
+    "es-ES": "Eliminar"
+  },
+  "chat.rename": {
+    "zh-CN": "重命名",
+    "zh-TW": "重命名",
+    "ja-JP": "名前変更",
+    "en-US": "Rename",
+    "ko-KR": "이름 변경",
+    "de-DE": "Umbenennen",
+    "fr-FR": "Renommer",
+    "es-ES": "Renombrar"
+  },
+  "chat.upgrade": {
+    "zh-CN": "升级模型",
+    "zh-TW": "升級模型",
+    "ja-JP": "モデルをアップグレード",
+    "en-US": "Upgrade Model",
+    "ko-KR": "모델 업그레이드",
+    "de-DE": "Modell aktualisieren",
+    "fr-FR": "Mettre à jour le modèle",
+    "es-ES": "Actualizar modelo"
+  },
+  "chat.clear_context": {
+    "zh-CN": "清除上下文",
+    "zh-TW": "清除上下文",
+    "ja-JP": "コンテキストをクリア",
+    "en-US": "Clear Context",
+    "ko-KR": "컨텍스트 지우기",
+    "de-DE": "Kontext löschen",
+    "fr-FR": "Effacer le contexte",
+    "es-ES": "Limpiar contexto"
+  },
+  "chat.model": {
+    "zh-CN": "当前模型",
+    "zh-TW": "當前模型",
+    "ja-JP": "現在のモデル",
+    "en-US": "Current Model",
+    "ko-KR": "현재 모델",
+    "de-DE": "Aktuelles Modell",
+    "fr-FR": "Modèle actuel",
+    "es-ES": "Modelo actual"
+  },
+  "chat.hint": {
+    "zh-CN": "提示词编辑",
+    "zh-TW": "提示詞編輯",
+    "ja-JP": "プロンプト編集",
+    "en-US": "Prompt Editor",
+    "ko-KR": "프롬프트 편집",
+    "de-DE": "Prompt-Editor",
+    "fr-FR": "Éditeur de prompt",
+    "es-ES": "Editor de prompt"
+  },
+  "chat.speaker": {
+    "zh-CN": "朗读结果",
+    "zh-TW": "朗讀結果",
+    "ja-JP": "読み上げ",
+    "en-US": "Speak",
+    "ko-KR": "읽기",
+    "de-DE": "Vorlesen",
+    "fr-FR": "Lire à voix haute",
+    "es-ES": "Leer en voz alta"
+  },
+  "chat.expand": {
+    "zh-CN": "展开",
+    "zh-TW": "展開",
+    "ja-JP": "展開",
+    "en-US": "Expand",
+    "ko-KR": "확장",
+    "de-DE": "Erweitern",
+    "fr-FR": "Développer",
+    "es-ES": "Expandir"
+  },
+  "chat.collapse": {
+    "zh-CN": "收起",
+    "zh-TW": "收起",
+    "ja-JP": "折りたたむ",
+    "en-US": "Collapse",
+    "ko-KR": "접기",
+    "de-DE": "Einklappen",
+    "fr-FR": "Réduire",
+    "es-ES": "Colapsar"
+  },
+  "sidebar.chat": {
+    "zh-CN": "AI 对话",
+    "zh-TW": "AI 對話",
+    "ja-JP": "AI チャット",
+    "en-US": "AI Chat",
+    "ko-KR": "AI 채팅",
+    "de-DE": "KI-Chat",
+    "fr-FR": "Chat IA",
+    "es-ES": "Chat IA"
+  },
+  "sidebar.pets": {
+    "zh-CN": "角色召唤",
+    "zh-TW": "角色召喚",
+    "ja-JP": "キャラ召喚",
+    "en-US": "Mascots",
+    "ko-KR": "캐릭터 소환",
+    "de-DE": "Maskottchen",
+    "fr-FR": "Mascottes",
+    "es-ES": "Mascotas"
+  },
+  "sidebar.models": {
+    "zh-CN": "模型管理",
+    "zh-TW": "模型管理",
+    "ja-JP": "モデル管理",
+    "en-US": "Models",
+    "ko-KR": "모델 관리",
+    "de-DE": "Modelle",
+    "fr-FR": "Modèles",
+    "es-ES": "Modelos"
+  },
+  "sidebar.settings": {
+    "zh-CN": "功能设置",
+    "zh-TW": "功能設定",
+    "ja-JP": "機能設定",
+    "en-US": "Settings",
+    "ko-KR": "기능 설정",
+    "de-DE": "Einstellungen",
+    "fr-FR": "Paramètres",
+    "es-ES": "Configuración"
+  },
+  "status.engine_running": {
+    "zh-CN": "运行中",
+    "zh-TW": "運行中",
+    "ja-JP": "実行中",
+    "en-US": "Running",
+    "ko-KR": "실행 중",
+    "de-DE": "Läuft",
+    "fr-FR": "En cours",
+    "es-ES": "En ejecución"
+  },
+  "status.engine_stopped": {
+    "zh-CN": "未启动",
+    "zh-TW": "未啟動",
+    "ja-JP": "未起動",
+    "en-US": "Stopped",
+    "ko-KR": "중지됨",
+    "de-DE": "Gestoppt",
+    "fr-FR": "Arrêté",
+    "es-ES": "Detenido"
+  },
+  "status.connecting": {
+    "zh-CN": "连接中…",
+    "zh-TW": "連接中…",
+    "ja-JP": "接続中…",
+    "en-US": "Connecting…",
+    "ko-KR": "연결 중…",
+    "de-DE": "Verbinden…",
+    "fr-FR": "Connexion…",
+    "es-ES": "Conectando…"
+  },
+  "status.connected": {
+    "zh-CN": "已连接",
+    "zh-TW": "已連接",
+    "ja-JP": "接続済み",
+    "en-US": "Connected",
+    "ko-KR": "연결됨",
+    "de-DE": "Verbunden",
+    "fr-FR": "Connecté",
+    "es-ES": "Conectado"
+  },
+  "status.disconnected": {
+    "zh-CN": "已断开",
+    "zh-TW": "已斷開",
+    "ja-JP": "切断されました",
+    "en-US": "Disconnected",
+    "ko-KR": "연결 끊김",
+    "de-DE": "Getrennt",
+    "fr-FR": "Déconnecté",
+    "es-ES": "Desconectado"
+  },
+  "status.engine_starting": {
+    "zh-CN": "引擎启动中…",
+    "zh-TW": "引擎啟動中…",
+    "ja-JP": "エンジン起動中…",
+    "en-US": "Engine starting…",
+    "ko-KR": "엔진 시작 중…",
+    "de-DE": "Engine startet…",
+    "fr-FR": "Démarrage du moteur…",
+    "es-ES": "Motor iniciando…"
+  },
+  "status.engine_ready": {
+    "zh-CN": "引擎就绪",
+    "zh-TW": "引擎就緒",
+    "ja-JP": "エンジン準備完了",
+    "en-US": "Engine Ready",
+    "ko-KR": "엔진 준비 완료",
+    "de-DE": "Engine bereit",
+    "fr-FR": "Moteur prêt",
+    "es-ES": "Motor listo"
+  },
+  "status.sending": {
+    "zh-CN": "发送中…",
+    "zh-TW": "發送中…",
+    "ja-JP": "送信中…",
+    "en-US": "Sending…",
+    "ko-KR": "전송 중…",
+    "de-DE": "Senden…",
+    "fr-FR": "Envoi…",
+    "es-ES": "Enviando…"
+  },
+  "status.thinking": {
+    "zh-CN": "思考中…",
+    "zh-TW": "思考中…",
+    "ja-JP": "考え中…",
+    "en-US": "Thinking…",
+    "ko-KR": "생각 중…",
+    "de-DE": "Denkt nach…",
+    "fr-FR": "Réflexion…",
+    "es-ES": "Pensando…"
+  },
+  "status.ai_responding": {
+    "zh-CN": "AI 回复中…",
+    "zh-TW": "AI 回覆中…",
+    "ja-JP": "AI 応答中…",
+    "en-US": "AI responding…",
+    "ko-KR": "AI 응답 중…",
+    "de-DE": "KI antwortet…",
+    "fr-FR": "IA répond…",
+    "es-ES": "IA respondiendo…"
+  },
+  "status.downloading": {
+    "zh-CN": "下载中",
+    "zh-TW": "下載中",
+    "ja-JP": "ダウンロード中",
+    "en-US": "Downloading",
+    "ko-KR": "다운로드 중",
+    "de-DE": "Wird heruntergeladen",
+    "fr-FR": "Téléchargement",
+    "es-ES": "Descargando"
+  },
+  "status.installing": {
+    "zh-CN": "安装中",
+    "zh-TW": "安裝中",
+    "ja-JP": "インストール中",
+    "en-US": "Installing",
+    "ko-KR": "설치 중",
+    "de-DE": "Wird installiert",
+    "fr-FR": "Installation",
+    "es-ES": "Instalando"
+  },
+  "status.error": {
+    "zh-CN": "错误",
+    "zh-TW": "錯誤",
+    "ja-JP": "エラー",
+    "en-US": "Error",
+    "ko-KR": "오류",
+    "de-DE": "Fehler",
+    "fr-FR": "Erreur",
+    "es-ES": "Error"
+  },
+  "ui.yes": {
+    "zh-CN": "是",
+    "zh-TW": "是",
+    "ja-JP": "はい",
+    "en-US": "Yes",
+    "ko-KR": "예",
+    "de-DE": "Ja",
+    "fr-FR": "Oui",
+    "es-ES": "Sí"
+  },
+  "ui.no": {
+    "zh-CN": "否",
+    "zh-TW": "否",
+    "ja-JP": "いいえ",
+    "en-US": "No",
+    "ko-KR": "아니오",
+    "de-DE": "Nein",
+    "fr-FR": "Non",
+    "es-ES": "No"
+  },
+  "ui.ok": {
+    "zh-CN": "确定",
+    "zh-TW": "確定",
+    "ja-JP": "OK",
+    "en-US": "OK",
+    "ko-KR": "확인",
+    "de-DE": "OK",
+    "fr-FR": "OK",
+    "es-ES": "OK"
+  },
+  "ui.back": {
+    "zh-CN": "返回",
+    "zh-TW": "返回",
+    "ja-JP": "戻る",
+    "en-US": "Back",
+    "ko-KR": "뒤로",
+    "de-DE": "Zurück",
+    "fr-FR": "Retour",
+    "es-ES": "Volver"
+  },
+  "ui.save": {
+    "zh-CN": "保存",
+    "zh-TW": "保存",
+    "ja-JP": "保存",
+    "en-US": "Save",
+    "ko-KR": "저장",
+    "de-DE": "Speichern",
+    "fr-FR": "Enregistrer",
+    "es-ES": "Guardar"
+  },
+  "ui.default": {
+    "zh-CN": "默认",
+    "zh-TW": "預設",
+    "ja-JP": "デフォルト",
+    "en-US": "Default",
+    "ko-KR": "기본값",
+    "de-DE": "Standard",
+    "fr-FR": "Défaut",
+    "es-ES": "Por defecto"
+  },
+  "ui.set_default": {
+    "zh-CN": "设为默认",
+    "zh-TW": "設為預設",
+    "ja-JP": "デフォルトに設定",
+    "en-US": "Set Default",
+    "ko-KR": "기본값으로 설정",
+    "de-DE": "Als Standard",
+    "fr-FR": "Définir par défaut",
+    "es-ES": "Definir como predeterminado"
+  },
+  "ui.open_folder": {
+    "zh-CN": "在 Finder 中显示",
+    "zh-TW": "在 Finder 中顯示",
+    "ja-JP": "Finderで表示",
+    "en-US": "Show in Finder",
+    "ko-KR": "Finder에서 보기",
+    "de-DE": "Im Finder zeigen",
+    "fr-FR": "Afficher dans Finder",
+    "es-ES": "Mostrar en Finder"
+  },
+  "ui.select_all": {
+    "zh-CN": "全选",
+    "zh-TW": "全選",
+    "ja-JP": "すべて選択",
+    "en-US": "Select All",
+    "ko-KR": "전체 선택",
+    "de-DE": "Alle auswählen",
+    "fr-FR": "Tout sélectionner",
+    "es-ES": "Seleccionar todo"
+  },
+  "ui.deselect_all": {
+    "zh-CN": "取消全选",
+    "zh-TW": "取消全選",
+    "ja-JP": "選択解除",
+    "en-US": "Deselect All",
+    "ko-KR": "전체 해제",
+    "de-DE": "Alle abwählen",
+    "fr-FR": "Tout désélectionner",
+    "es-ES": "Deseleccionar todo"
+  },
+  "ui.delete_selected": {
+    "zh-CN": "删除选中",
+    "zh-TW": "刪除選中",
+    "ja-JP": "選択を削除",
+    "en-US": "Delete Selected",
+    "ko-KR": "선택 삭제",
+    "de-DE": "Ausgewählte löschen",
+    "fr-FR": "Supprimer la sélection",
+    "es-ES": "Eliminar seleccionados"
+  },
+  "ui.sort_name": {
+    "zh-CN": "按名称",
+    "zh-TW": "按名稱",
+    "ja-JP": "名前順",
+    "en-US": "By Name",
+    "ko-KR": "이름순",
+    "de-DE": "Nach Name",
+    "fr-FR": "Par nom",
+    "es-ES": "Por nombre"
+  },
+  "ui.sort_size": {
+    "zh-CN": "按大小",
+    "zh-TW": "按大小",
+    "ja-JP": "サイズ順",
+    "en-US": "By Size",
+    "ko-KR": "크기순",
+    "de-DE": "Nach Größe",
+    "fr-FR": "Par taille",
+    "es-ES": "Por tamaño"
+  },
+  "ui.sort_date": {
+    "zh-CN": "按日期",
+    "zh-TW": "按日期",
+    "ja-JP": "日付順",
+    "en-US": "By Date",
+    "ko-KR": "날짜순",
+    "de-DE": "Nach Datum",
+    "fr-FR": "Par date",
+    "es-ES": "Por fecha"
+  },
+  "status.models_loaded": {
+    "zh-CN": "已加载模型",
+    "zh-TW": "已載入模型",
+    "ja-JP": "ロード済みモデル",
+    "en-US": "Models Loaded",
+    "ko-KR": "로드된 모델",
+    "de-DE": "Geladene Modelle",
+    "fr-FR": "Modèles chargés",
+    "es-ES": "Modelos cargados"
+  },
+  "ui.model_dir": {
+    "zh-CN": "模型目录",
+    "zh-TW": "模型目錄",
+    "ja-JP": "モデルディレクトリ",
+    "en-US": "Models Directory",
+    "ko-KR": "모델 디렉토리",
+    "de-DE": "Modellverzeichnis",
+    "fr-FR": "Dossier des modèles",
+    "es-ES": "Directorio de modelos"
+  },
+  "ui.open": {
+    "zh-CN": "打开…",
+    "zh-TW": "打開…",
+    "ja-JP": "開く…",
+    "en-US": "Open…",
+    "ko-KR": "열기…",
+    "de-DE": "Öffnen…",
+    "fr-FR": "Ouvrir…",
+    "es-ES": "Abrir…"
+  },
+  "ui.close": {
+    "zh-CN": "关闭",
+    "zh-TW": "關閉",
+    "ja-JP": "閉じる",
+    "en-US": "Close",
+    "ko-KR": "닫기",
+    "de-DE": "Schließen",
+    "fr-FR": "Fermer",
+    "es-ES": "Cerrar"
+  },
+  "settings.about": {
+    "zh-CN": "关于",
+    "zh-TW": "關於",
+    "ja-JP": "について",
+    "en-US": "About",
+    "ko-KR": "정보",
+    "de-DE": "Über",
+    "fr-FR": "À propos",
+    "es-ES": "Acerca de"
+  },
+  "settings.model_source": {
+    "zh-CN": "模型来源",
+    "zh-TW": "模型來源",
+    "ja-JP": "モデルソース",
+    "en-US": "Model Source",
+    "ko-KR": "모델 소스",
+    "de-DE": "Modellquelle",
+    "fr-FR": "Source du modèle",
+    "es-ES": "Fuente del modelo"
+  },
+  "settings.mirror": {
+    "zh-CN": "镜像站",
+    "zh-TW": "鏡像站",
+    "ja-JP": "ミラーサイト",
+    "en-US": "Mirror",
+    "ko-KR": "미러",
+    "de-DE": "Spiegel",
+    "fr-FR": "Miroir",
+    "es-ES": "Espejo"
+  },
+  "settings.huggingface": {
+    "zh-CN": "HuggingFace",
+    "zh-TW": "HuggingFace",
+    "ja-JP": "HuggingFace",
+    "en-US": "HuggingFace",
+    "ko-KR": "HuggingFace",
+    "de-DE": "HuggingFace",
+    "fr-FR": "HuggingFace",
+    "es-ES": "HuggingFace"
+  },
+  "settings.lmstudio": {
+    "zh-CN": "LM Studio (本地)",
+    "zh-TW": "LM Studio (本地)",
+    "ja-JP": "LM Studio (ローカル)",
+    "en-US": "LM Studio (Local)",
+    "ko-KR": "LM Studio (로컬)",
+    "de-DE": "LM Studio (Lokal)",
+    "fr-FR": "LM Studio (local)",
+    "es-ES": "LM Studio (local)"
+  },
+  "settings.inference": {
+    "zh-CN": "推理设置",
+    "zh-TW": "推理設定",
+    "ja-JP": "推論設定",
+    "en-US": "Inference",
+    "ko-KR": "추론 설정",
+    "de-DE": "Inferenz",
+    "fr-FR": "Inférence",
+    "es-ES": "Inferencia"
+  },
+  "settings.llama_port": {
+    "zh-CN": "Llama Server 端口",
+    "zh-TW": "Llama Server 端口",
+    "ja-JP": "Llamaサーバーポート",
+    "en-US": "Llama Server Port",
+    "ko-KR": "Llama 서버 포트",
+    "de-DE": "Llama-Server-Port",
+    "fr-FR": "Port du serveur Llama",
+    "es-ES": "Puerto del servidor Llama"
+  },
+  "chat.system_prompt": {
+    "zh-CN": "系统提示词",
+    "zh-TW": "系統提示詞",
+    "ja-JP": "システムプロンプト",
+    "en-US": "System Prompt",
+    "ko-KR": "시스템 프롬프트",
+    "de-DE": "System-Prompt",
+    "fr-FR": "Prompt système",
+    "es-ES": "Prompt del sistema"
+  },
+  "settings.current_model": {
+    "zh-CN": "当前模型",
+    "zh-TW": "當前模型",
+    "ja-JP": "現在のモデル",
+    "en-US": "Current Model",
+    "ko-KR": "현재 모델",
+    "de-DE": "Aktuelles Modell",
+    "fr-FR": "Modèle actuel",
+    "es-ES": "Modelo actual"
+  },
+  "settings.cache": {
+    "zh-CN": "缓存管理",
+    "zh-TW": "緩存管理",
+    "ja-JP": "キャッシュ管理",
+    "en-US": "Cache",
+    "ko-KR": "캐시 관리",
+    "de-DE": "Cache",
+    "fr-FR": "Cache",
+    "es-ES": "Caché"
+  },
+  "models.clear_cache": {
+    "zh-CN": "清空模型缓存…",
+    "zh-TW": "清空模型緩存…",
+    "ja-JP": "モデルキャッシュをクリア…",
+    "en-US": "Clear Model Cache…",
+    "ko-KR": "모델 캐시 지우기…",
+    "de-DE": "Modell-Cache leeren…",
+    "fr-FR": "Vider le cache…",
+    "es-ES": "Limpiar caché…"
+  },
+  "chat.clear_history": {
+    "zh-CN": "清空对话历史…",
+    "zh-TW": "清空對話歷史…",
+    "ja-JP": "会話履歴をクリア…",
+    "en-US": "Clear Chat History…",
+    "ko-KR": "대화 기록 지우기…",
+    "de-DE": "Chat-Verlauf löschen…",
+    "fr-FR": "Effacer l'historique…",
+    "es-ES": "Limpiar historial…"
+  },
+  "settings.theme": {
+    "zh-CN": "主题",
+    "zh-TW": "主題",
+    "ja-JP": "テーマ",
+    "en-US": "Theme",
+    "ko-KR": "테마",
+    "de-DE": "Design",
+    "fr-FR": "Thème",
+    "es-ES": "Tema"
+  },
+  "settings.follow_system": {
+    "zh-CN": "跟随系统外观",
+    "zh-TW": "跟隨系統外觀",
+    "ja-JP": "システムに従う",
+    "en-US": "Follow System",
+    "ko-KR": "시스템 따르기",
+    "de-DE": "System folgen",
+    "fr-FR": "Suivre le système",
+    "es-ES": "Seguir sistema"
+  },
+  "settings.restart_hint": {
+    "zh-CN": "应用重启后生效",
+    "zh-TW": "應用重啟後生效",
+    "ja-JP": "アプリ再起動後に反映",
+    "en-US": "Takes effect after restart",
+    "ko-KR": "재시작 후 적용됨",
+    "de-DE": "Nach Neustart wirksam",
+    "fr-FR": "Effet après redémarrage",
+    "es-ES": "Efectivo tras reiniciar"
+  },
+  "settings.accent_color": {
+    "zh-CN": "强调色",
+    "zh-TW": "強調色",
+    "ja-JP": "アクセントカラー",
+    "en-US": "Accent Color",
+    "ko-KR": "강조 색상",
+    "de-DE": "Akzentfarbe",
+    "fr-FR": "Couleur d'accent",
+    "es-ES": "Color de acento"
+  },
+  "settings.glass": {
+    "zh-CN": "Glass Morphism",
+    "zh-TW": "Glass Morphism",
+    "ja-JP": "Glass Morphism",
+    "en-US": "Glass Morphism",
+    "ko-KR": "Glass Morphism",
+    "de-DE": "Glass Morphism",
+    "fr-FR": "Glass Morphism",
+    "es-ES": "Glass Morphism"
+  },
+  "settings.glass_blur": {
+    "zh-CN": "玻璃模糊度",
+    "zh-TW": "玻璃模糊度",
+    "ja-JP": "ガラスのぼかし",
+    "en-US": "Blur",
+    "ko-KR": "블러",
+    "de-DE": "Unschärfe",
+    "fr-FR": "Flou",
+    "es-ES": "Desenfoque"
+  },
+  "settings.corner_radius": {
+    "zh-CN": "角半径",
+    "zh-TW": "角半徑",
+    "ja-JP": "角の半径",
+    "en-US": "Corner Radius",
+    "ko-KR": "모서리 반경",
+    "de-DE": "Eckenradius",
+    "fr-FR": "Rayon des coins",
+    "es-ES": "Radio de esquina"
+  },
+  "settings.global_shortcuts": {
+    "zh-CN": "全局快捷键",
+    "zh-TW": "全局快捷鍵",
+    "ja-JP": "グローバルショートカット",
+    "en-US": "Global Shortcuts",
+    "ko-KR": "전역 단축키",
+    "de-DE": "Globale Tastenkombinationen",
+    "fr-FR": "Raccourcis globaux",
+    "es-ES": "Atajos globales"
+  },
+  "shortcut.control_panel": {
+    "zh-CN": "打开控制面板",
+    "zh-TW": "打開控制面板",
+    "ja-JP": "コントロールパネル",
+    "en-US": "Control Panel",
+    "ko-KR": "제어판 열기",
+    "de-DE": "Kontrollfeld",
+    "fr-FR": "Panneau de contrôle",
+    "es-ES": "Panel de control"
+  },
+  "shortcut.summon": {
+    "zh-CN": "召唤角色",
+    "zh-TW": "召喚角色",
+    "ja-JP": "キャラ召喚",
+    "en-US": "Summon Mascot",
+    "ko-KR": "캐릭터 소환",
+    "de-DE": "Maskottchen rufen",
+    "fr-FR": "Invoquer mascotte",
+    "es-ES": "Invocar mascota"
+  },
+  "shortcut.hide_all": {
+    "zh-CN": "隐藏所有宠物",
+    "zh-TW": "隱藏所有寵物",
+    "ja-JP": "全員を隠す",
+    "en-US": "Hide All Mascots",
+    "ko-KR": "모든 펫 숨기기",
+    "de-DE": "Alle ausblenden",
+    "fr-FR": "Cacher tous",
+    "es-ES": "Ocultar todos"
+  },
+  "shortcut.ai_chat": {
+    "zh-CN": "AI 对话",
+    "zh-TW": "AI 對話",
+    "ja-JP": "AIチャット",
+    "en-US": "AI Chat",
+    "ko-KR": "AI 채팅",
+    "de-DE": "KI-Chat",
+    "fr-FR": "Chat IA",
+    "es-ES": "Chat IA"
+  },
+  "shortcut.switch_char": {
+    "zh-CN": "切换角色",
+    "zh-TW": "切換角色",
+    "ja-JP": "キャラ切替",
+    "en-US": "Switch Mascot",
+    "ko-KR": "캐릭터 전환",
+    "de-DE": "Maskottchen wechseln",
+    "fr-FR": "Changer de mascotte",
+    "es-ES": "Cambiar mascota"
+  },
+  "settings.qrcode_not_found": {
+    "zh-CN": "未找到收款码图片",
+    "zh-TW": "未找到收款碼圖片",
+    "ja-JP": "QR画像が見つかりません",
+    "en-US": "QR code image not found",
+    "ko-KR": "QR 코드 이미지 없음",
+    "de-DE": "QR-Code-Bild nicht gefunden",
+    "fr-FR": "Image QR introuvable",
+    "es-ES": "Imagen QR no encontrada"
+  },
+  "settings.donate_thanks": {
+    "zh-CN": "扫码打赏，感谢支持 ❤️",
+    "zh-TW": "掃碼打賞，感謝支持 ❤️",
+    "ja-JP": "応援ありがとう❤️",
+    "en-US": "Scan to donate ❤️",
+    "ko-KR": "후원 감사합니다 ❤️",
+    "de-DE": "Spenden per QR ❤️",
+    "fr-FR": "Scannez pour donner ❤️",
+    "es-ES": "Escanea para donar ❤️"
+  },
+  "sidebar.history": {
+    "zh-CN": "历史记录",
+    "zh-TW": "歷史記錄",
+    "ja-JP": "履歴",
+    "en-US": "History",
+    "ko-KR": "기록",
+    "de-DE": "Verlauf",
+    "fr-FR": "Historique",
+    "es-ES": "Historial"
+  },
+  "ui.show_sidebar": {
+    "zh-CN": "显示侧边栏",
+    "zh-TW": "顯示側邊欄",
+    "ja-JP": "サイドバーを表示",
+    "en-US": "Show Sidebar",
+    "ko-KR": "사이드바 표시",
+    "de-DE": "Sidebar zeigen",
+    "fr-FR": "Afficher la barre",
+    "es-ES": "Mostrar barra"
+  },
+  "ui.hide_sidebar": {
+    "zh-CN": "隐藏侧边栏",
+    "zh-TW": "隱藏側邊欄",
+    "ja-JP": "サイドバーを隠す",
+    "en-US": "Hide Sidebar",
+    "ko-KR": "사이드바 숨기기",
+    "de-DE": "Sidebar verbergen",
+    "fr-FR": "Masquer la barre",
+    "es-ES": "Ocultar barra"
+  },
+  "ui.delete": {
+    "zh-CN": "删除",
+    "zh-TW": "刪除",
+    "ja-JP": "削除",
+    "en-US": "Delete",
+    "ko-KR": "삭제",
+    "de-DE": "Löschen",
+    "fr-FR": "Supprimer",
+    "es-ES": "Eliminar"
+  },
+  "ui.cancel": {
+    "zh-CN": "取消",
+    "zh-TW": "取消",
+    "ja-JP": "キャンセル",
+    "en-US": "Cancel",
+    "ko-KR": "취소",
+    "de-DE": "Abbrechen",
+    "fr-FR": "Annuler",
+    "es-ES": "Cancelar"
+  },
+  "ui.retry": {
+    "zh-CN": "重试",
+    "zh-TW": "重試",
+    "ja-JP": "再試行",
+    "en-US": "Retry",
+    "ko-KR": "재시도",
+    "de-DE": "Wiederholen",
+    "fr-FR": "Réessayer",
+    "es-ES": "Reintentar"
+  },
+  "ui.install": {
+    "zh-CN": "安装",
+    "zh-TW": "安裝",
+    "ja-JP": "インストール",
+    "en-US": "Install",
+    "ko-KR": "설치",
+    "de-DE": "Installieren",
+    "fr-FR": "Installer",
+    "es-ES": "Instalar"
+  },
+  "ui.clear": {
+    "zh-CN": "清空",
+    "zh-TW": "清空",
+    "ja-JP": "クリア",
+    "en-US": "Clear",
+    "ko-KR": "지우기",
+    "de-DE": "Löschen",
+    "fr-FR": "Effacer",
+    "es-ES": "Limpiar"
+  },
+  "ui.hide": {
+    "zh-CN": "隐藏",
+    "zh-TW": "隱藏",
+    "ja-JP": "隠す",
+    "en-US": "Hide",
+    "ko-KR": "숨기기",
+    "de-DE": "Verbergen",
+    "fr-FR": "Masquer",
+    "es-ES": "Ocultar"
+  },
+  "ui.refresh": {
+    "zh-CN": "刷新",
+    "zh-TW": "刷新",
+    "ja-JP": "更新",
+    "en-US": "Refresh",
+    "ko-KR": "새로고침",
+    "de-DE": "Aktualisieren",
+    "fr-FR": "Actualiser",
+    "es-ES": "Actualizar"
+  },
+  "ui.batch_select": {
+    "zh-CN": "批量选择",
+    "zh-TW": "批量選擇",
+    "ja-JP": "一括選択",
+    "en-US": "Batch Select",
+    "ko-KR": "일괄 선택",
+    "de-DE": "Stapelauswahl",
+    "fr-FR": "Sélection par lot",
+    "es-ES": "Selección masiva"
+  },
+  "chat.subtitle": {
+    "zh-CN": "与蕾姆的专属会话",
+    "zh-TW": "與蕾姆的專屬會話",
+    "ja-JP": "レムとの会話",
+    "en-US": "Chat with Rem",
+    "ko-KR": "렘과의 대화",
+    "de-DE": "Chat mit Rem",
+    "fr-FR": "Conversation avec Rem",
+    "es-ES": "Chat con Rem"
+  },
+  "chat.history_hint": {
+    "zh-CN": "AI 对话记录将保存在这里",
+    "zh-TW": "AI 對話記錄將保存在這裡",
+    "ja-JP": "AI会話履歴はここに保存",
+    "en-US": "Chat history saved here",
+    "ko-KR": "대화 기록이 여기에 저장됨",
+    "de-DE": "Chat-Verlauf hier gespeichert",
+    "fr-FR": "Historique sauvegardé ici",
+    "es-ES": "Historial guardado aquí"
+  },
+  "chat.system_prompt_hint": {
+    "zh-CN": "AI 会根据系统提示词扮演角色",
+    "zh-TW": "AI 會根據系統提示詞扮演角色",
+    "ja-JP": "AIはシステムプロンプトに従って行動",
+    "en-US": "AI role-plays based on system prompt",
+    "ko-KR": "AI는 시스템 프롬프트에 따라 역할 수행",
+    "de-DE": "KI spielt Rolle basierend auf Prompt",
+    "fr-FR": "L'IA joue un rôle selon le prompt",
+    "es-ES": "IA actúa según el prompt"
+  },
+  "chat.select_model": {
+    "zh-CN": "选择模型",
+    "zh-TW": "選擇模型",
+    "ja-JP": "モデルを選択",
+    "en-US": "Select Model",
+    "ko-KR": "모델 선택",
+    "de-DE": "Modell auswählen",
+    "fr-FR": "Choisir le modèle",
+    "es-ES": "Seleccionar modelo"
+  },
+  "chat.no_model": {
+    "zh-CN": "无可用模型",
+    "zh-TW": "無可用模型",
+    "ja-JP": "利用可能なモデルなし",
+    "en-US": "No Models Available",
+    "ko-KR": "사용 가능한 모델 없음",
+    "de-DE": "Keine Modelle verfügbar",
+    "fr-FR": "Aucun modèle disponible",
+    "es-ES": "Sin modelos disponibles"
+  },
+  "chat.waiting_load": {
+    "zh-CN": "等待加载",
+    "zh-TW": "等待載入",
+    "ja-JP": "読み込み待ち",
+    "en-US": "Waiting to Load",
+    "ko-KR": "로드 대기 중",
+    "de-DE": "Warte auf Laden",
+    "fr-FR": "En attente de chargement",
+    "es-ES": "Esperando carga"
+  },
+  "chat.needs_python3": {
+    "zh-CN": "需要 Python3",
+    "zh-TW": "需要 Python3",
+    "ja-JP": "Python3が必要",
+    "en-US": "Requires Python3",
+    "ko-KR": "Python3 필요",
+    "de-DE": "Benötigt Python3",
+    "fr-FR": "Nécessite Python3",
+    "es-ES": "Requiere Python3"
+  },
+  "pets.summon_all": {
+    "zh-CN": "召唤全部",
+    "zh-TW": "召喚全部",
+    "ja-JP": "全員召喚",
+    "en-US": "Summon All",
+    "ko-KR": "전체 소환",
+    "de-DE": "Alle beschwören",
+    "fr-FR": "Tout invoquer",
+    "es-ES": "Invocar todos"
+  },
+  "pets.random_summon": {
+    "zh-CN": "随机召唤",
+    "zh-TW": "隨機召喚",
+    "ja-JP": "ランダム召喚",
+    "en-US": "Random Summon",
+    "ko-KR": "무작위 소환",
+    "de-DE": "Zufällig beschwören",
+    "fr-FR": "Invoquer aléatoirement",
+    "es-ES": "Invocar aleatorio"
+  },
+  "pets.refresh": {
+    "zh-CN": "刷新角色",
+    "zh-TW": "刷新角色",
+    "ja-JP": "キャラ更新",
+    "en-US": "Refresh",
+    "ko-KR": "새로고침",
+    "de-DE": "Aktualisieren",
+    "fr-FR": "Actualiser",
+    "es-ES": "Actualizar"
+  },
+  "models.cancel_download": {
+    "zh-CN": "取消下载",
+    "zh-TW": "取消下載",
+    "ja-JP": "ダウンロード取消",
+    "en-US": "Cancel Download",
+    "ko-KR": "다운로드 취소",
+    "de-DE": "Download abbrechen",
+    "fr-FR": "Annuler le téléchargement",
+    "es-ES": "Cancelar descarga"
+  },
+  "models.cancel_all": {
+    "zh-CN": "取消全部",
+    "zh-TW": "取消全部",
+    "ja-JP": "すべて取消",
+    "en-US": "Cancel All",
+    "ko-KR": "모두 취소",
+    "de-DE": "Alle abbrechen",
+    "fr-FR": "Tout annuler",
+    "es-ES": "Cancelar todo"
+  },
+  "models.retry_download": {
+    "zh-CN": "重试下载",
+    "zh-TW": "重試下載",
+    "ja-JP": "再ダウンロード",
+    "en-US": "Retry Download",
+    "ko-KR": "다운로드 재시도",
+    "de-DE": "Download wiederholen",
+    "fr-FR": "Réessayer le téléchargement",
+    "es-ES": "Reintentar descarga"
+  },
+  "models.delete_files": {
+    "zh-CN": "删除模型文件",
+    "zh-TW": "刪除模型檔案",
+    "ja-JP": "モデルファイルを削除",
+    "en-US": "Delete Model Files",
+    "ko-KR": "모델 파일 삭제",
+    "de-DE": "Modelldateien löschen",
+    "fr-FR": "Supprimer les modèles",
+    "es-ES": "Eliminar archivos"
+  },
+  "models.no_local": {
+    "zh-CN": "暂无本地模型",
+    "zh-TW": "暫無本地模型",
+    "ja-JP": "ローカルモデルなし",
+    "en-US": "No Local Models",
+    "ko-KR": "로컬 모델 없음",
+    "de-DE": "Keine lokalen Modelle",
+    "fr-FR": "Aucun modèle local",
+    "es-ES": "Sin modelos locales"
+  },
+  "models.no_downloads": {
+    "zh-CN": "暂无下载",
+    "zh-TW": "暫無下載",
+    "ja-JP": "ダウンロードなし",
+    "en-US": "No Downloads",
+    "ko-KR": "다운로드 없음",
+    "de-DE": "Keine Downloads",
+    "fr-FR": "Aucun téléchargement",
+    "es-ES": "Sin descargas"
+  },
+  "models.params": {
+    "zh-CN": "参数",
+    "zh-TW": "參數",
+    "ja-JP": "パラメータ",
+    "en-US": "Params",
+    "ko-KR": "파라미터",
+    "de-DE": "Parameter",
+    "fr-FR": "Paramètres",
+    "es-ES": "Parámetros"
+  },
+  "models.quantization": {
+    "zh-CN": "量化",
+    "zh-TW": "量化",
+    "ja-JP": "量子化",
+    "en-US": "Quantization",
+    "ko-KR": "양자화",
+    "de-DE": "Quantisierung",
+    "fr-FR": "Quantification",
+    "es-ES": "Cuantización"
+  },
+  "models.download_mmproj": {
+    "zh-CN": "下载 mmproj (Q8_K_P)",
+    "zh-TW": "下載 mmproj (Q8_K_P)",
+    "ja-JP": "mmprojをDL (Q8_K_P)",
+    "en-US": "Download mmproj (Q8_K_P)",
+    "ko-KR": "mmproj 다운로드",
+    "de-DE": "mmproj herunterladen",
+    "fr-FR": "Télécharger mmproj",
+    "es-ES": "Descargar mmproj"
+  },
+  "models.mmproj_hint": {
+    "zh-CN": "需同时下载 mmproj 视觉投影文件",
+    "zh-TW": "需同時下載 mmproj 視覺投影文件",
+    "ja-JP": "mmproj視覚投影ファイルも必要",
+    "en-US": "mmproj vision projector required",
+    "ko-KR": "mmproj 비전 프로젝터 필요",
+    "de-DE": "mmproj-Vision-Projektor erforderlich",
+    "fr-FR": "Projecteur visuel mmproj requis",
+    "es-ES": "Proyector visual mmproj requerido"
+  },
+  "models.select_quant": {
+    "zh-CN": "选择量化版本下载",
+    "zh-TW": "選擇量化版本下載",
+    "ja-JP": "量子化バージョンを選択",
+    "en-US": "Select Quantization Version",
+    "ko-KR": "양자화 버전 선택",
+    "de-DE": "Quantisierungsversion wählen",
+    "fr-FR": "Choisir la quantification",
+    "es-ES": "Seleccionar cuantización"
+  },
+  "models.set_default": {
+    "zh-CN": "设为默认模型",
+    "zh-TW": "設為預設模型",
+    "ja-JP": "デフォルトに設定",
+    "en-US": "Set as Default Model",
+    "ko-KR": "기본 모델로 설정",
+    "de-DE": "Als Standardmodell",
+    "fr-FR": "Définir comme modèle par défaut",
+    "es-ES": "Definir como modelo predeterminado"
+  },
+  "models.open_folder": {
+    "zh-CN": "打开 Models 文件夹",
+    "zh-TW": "打開 Models 文件夾",
+    "ja-JP": "Modelsフォルダを開く",
+    "en-US": "Open Models Folder",
+    "ko-KR": "Models 폴더 열기",
+    "de-DE": "Models-Ordner öffnen",
+    "fr-FR": "Ouvrir le dossier Models",
+    "es-ES": "Abrir carpeta Models"
+  },
+  "models.auto_discover": {
+    "zh-CN": "启动后自动发现本地服务",
+    "zh-TW": "啟動後自動發現本地服務",
+    "ja-JP": "起動時に自動検出",
+    "en-US": "Auto-discover local services",
+    "ko-KR": "로컬 서비스 자동 감지",
+    "de-DE": "Lokale Dienste automatisch erkennen",
+    "fr-FR": "Détection automatique locale",
+    "es-ES": "Auto-descubrir servicios locales"
+  },
+  "models.start_download": {
+    "zh-CN": "从社区模型开始下载",
+    "zh-TW": "從社區模型開始下載",
+    "ja-JP": "コミュニティモデルのDL",
+    "en-US": "Download Community Models",
+    "ko-KR": "커뮤니티 모델 다운로드",
+    "de-DE": "Community-Modelle herunterladen",
+    "fr-FR": "Télécharger modèles communautaires",
+    "es-ES": "Descargar modelos comunitarios"
+  },
+  "models.import_hint": {
+    "zh-CN": "从社区模型下载或拖拽 .gguf 文件导入",
+    "zh-TW": "從社區模型下載或拖拽 .gguf 文件導入",
+    "ja-JP": ".ggufファイルをDLまたはドロップ",
+    "en-US": "Download or drag .gguf files to import",
+    "ko-KR": ".gguf 파일을 DL 또는 드래그",
+    "de-DE": ".gguf-Dateien herunterladen oder ziehen",
+    "fr-FR": "Télécharger ou glisser .gguf",
+    "es-ES": "Descargar o arrastrar .gguf"
+  },
+  "models.in_progress": {
+    "zh-CN": "个进行中",
+    "zh-TW": "個進行中",
+    "ja-JP": "件進行中",
+    "en-US": " in progress",
+    "ko-KR": " 진행 중",
+    "de-DE": " in Arbeit",
+    "fr-FR": " en cours",
+    "es-ES": " en curso"
+  },
+  "models.completed": {
+    "zh-CN": "已完成",
+    "zh-TW": "已完成",
+    "ja-JP": "完了",
+    "en-US": "Completed",
+    "ko-KR": "완료",
+    "de-DE": "Abgeschlossen",
+    "fr-FR": "Terminé",
+    "es-ES": "Completado"
+  },
+  "models.imported": {
+    "zh-CN": "已导入",
+    "zh-TW": "已導入",
+    "ja-JP": "インポート済み",
+    "en-US": "Imported",
+    "ko-KR": "가져오기 완료",
+    "de-DE": "Importiert",
+    "fr-FR": "Importé",
+    "es-ES": "Importado"
+  },
+  "status.active": {
+    "zh-CN": "已激活",
+    "zh-TW": "已啟用",
+    "ja-JP": "アクティブ",
+    "en-US": "Active",
+    "ko-KR": "활성화",
+    "de-DE": "Aktiv",
+    "fr-FR": "Actif",
+    "es-ES": "Activo"
+  },
+  "pets.role_count": {
+    "zh-CN": "个角色",
+    "zh-TW": "個角色",
+    "ja-JP": "体",
+    "en-US": " mascots",
+    "ko-KR": " 캐릭터",
+    "de-DE": " Maskottchen",
+    "fr-FR": " mascottes",
+    "es-ES": " mascotas"
+  },
+  "chat.no_history": {
+    "zh-CN": "暂无历史",
+    "zh-TW": "暫無歷史",
+    "ja-JP": "履歴なし",
+    "en-US": "No History",
+    "ko-KR": "기록 없음",
+    "de-DE": "Kein Verlauf",
+    "fr-FR": "Aucun historique",
+    "es-ES": "Sin historial"
+  },
+  "models.downloaded": {
+    "zh-CN": "已下载",
+    "zh-TW": "已下載",
+    "ja-JP": "ダウンロード済み",
+    "en-US": "Downloaded",
+    "ko-KR": "다운로드 완료",
+    "de-DE": "Heruntergeladen",
+    "fr-FR": "Téléchargé",
+    "es-ES": "Descargado"
+  },
+  "status.typing": {
+    "zh-CN": "输入中…",
+    "zh-TW": "輸入中…",
+    "ja-JP": "入力中…",
+    "en-US": "Typing…",
+    "ko-KR": "입력 중…",
+    "de-DE": "Tippt…",
+    "fr-FR": "Saisie…",
+    "es-ES": "Escribiendo…"
+  },
+  "char.蕾姆": {
+    "zh-CN": "蕾姆",
+    "zh-TW": "蕾姆",
+    "ja-JP": "レム",
+    "en-US": "Rem",
+    "ko-KR": "렘",
+    "de-DE": "Rem",
+    "fr-FR": "Rem",
+    "es-ES": "Rem"
+  },
+  "char.拉姆": {
+    "zh-CN": "拉姆",
+    "zh-TW": "拉姆",
+    "ja-JP": "ラム",
+    "en-US": "Ram",
+    "ko-KR": "람",
+    "de-DE": "Ram",
+    "fr-FR": "Ram",
+    "es-ES": "Ram"
+  },
+  "char.三笠": {
+    "zh-CN": "三笠",
+    "zh-TW": "三笠",
+    "ja-JP": "ミカサ",
+    "en-US": "Mikasa",
+    "ko-KR": "미카사",
+    "de-DE": "Mikasa",
+    "fr-FR": "Mikasa",
+    "es-ES": "Mikasa"
+  },
+  "char.初音未来": {
+    "zh-CN": "初音未来",
+    "zh-TW": "初音未來",
+    "ja-JP": "初音ミク",
+    "en-US": "Hatsune Miku",
+    "ko-KR": "하츠네 미쿠",
+    "de-DE": "Hatsune Miku",
+    "fr-FR": "Hatsune Miku",
+    "es-ES": "Hatsune Miku"
+  },
+  "char.黑岩射手": {
+    "zh-CN": "黑岩射手",
+    "zh-TW": "黑岩射手",
+    "ja-JP": "ブラック★ロックシューター",
+    "en-US": "Black Rock Shooter",
+    "ko-KR": "블랙 락 슈터",
+    "de-DE": "Black Rock Shooter",
+    "fr-FR": "Black Rock Shooter",
+    "es-ES": "Black Rock Shooter"
+  },
+  "char.九喇嘛": {
+    "zh-CN": "九喇嘛",
+    "zh-TW": "九喇嘛",
+    "ja-JP": "九喇嘛",
+    "en-US": "Kurama",
+    "ko-KR": "쿠라마",
+    "de-DE": "Kurama",
+    "fr-FR": "Kurama",
+    "es-ES": "Kurama"
+  },
+  "char.云母Kiara": {
+    "zh-CN": "云母Kiara",
+    "zh-TW": "雲母Kiara",
+    "ja-JP": "雲母キアラ",
+    "en-US": "Kokoro Kiara",
+    "ko-KR": "코코로 키아라",
+    "de-DE": "Kokoro Kiara",
+    "fr-FR": "Kokoro Kiara",
+    "es-ES": "Kokoro Kiara"
+  },
+  "char.太宰治": {
+    "zh-CN": "太宰治",
+    "zh-TW": "太宰治",
+    "ja-JP": "太宰治",
+    "en-US": "Osamu Dazai",
+    "ko-KR": "다자이 오사무",
+    "de-DE": "Osamu Dazai",
+    "fr-FR": "Osamu Dazai",
+    "es-ES": "Osamu Dazai"
+  },
+  "char.奇犽": {
+    "zh-CN": "奇犽",
+    "zh-TW": "奇犽",
+    "ja-JP": "キルア",
+    "en-US": "Killua",
+    "ko-KR": "킬루아",
+    "de-DE": "Killua",
+    "fr-FR": "Killua",
+    "es-ES": "Killua"
+  },
+  "char.日向宁次": {
+    "zh-CN": "日向宁次",
+    "zh-TW": "日向寧次",
+    "ja-JP": "日向ネジ",
+    "en-US": "Neji Hyuga",
+    "ko-KR": "히나타 네지",
+    "de-DE": "Neji Hyuga",
+    "fr-FR": "Neji Hyuga",
+    "es-ES": "Neji Hyuga"
+  },
+  "char.日向雏田": {
+    "zh-CN": "日向雏田",
+    "zh-TW": "日向雛田",
+    "ja-JP": "日向ヒナタ",
+    "en-US": "Hinata Hyuga",
+    "ko-KR": "히나타 히나타",
+    "de-DE": "Hinata Hyuga",
+    "fr-FR": "Hinata Hyuga",
+    "es-ES": "Hinata Hyuga"
+  },
+  "char.漩涡鸣人": {
+    "zh-CN": "漩涡鸣人",
+    "zh-TW": "漩渦鳴人",
+    "ja-JP": "うずまきナルト",
+    "en-US": "Naruto Uzumaki",
+    "ko-KR": "우즈마키 나루토",
+    "de-DE": "Naruto Uzumaki",
+    "fr-FR": "Naruto Uzumaki",
+    "es-ES": "Naruto Uzumaki"
+  },
+  "char.蜜璃甘露寺": {
+    "zh-CN": "蜜璃甘露寺",
+    "zh-TW": "蜜璃甘露寺",
+    "ja-JP": "甘露寺ミリ",
+    "en-US": "Mitsuri Kanroji",
+    "ko-KR": "미츠리 칸로지",
+    "de-DE": "Mitsuri Kanroji",
+    "fr-FR": "Mitsuri Kanroji",
+    "es-ES": "Mitsuri Kanroji"
+  },
+  "char.孙悟空": {
+    "zh-CN": "孙悟空",
+    "zh-TW": "孫悟空",
+    "ja-JP": "孫悟空",
+    "en-US": "Son Goku",
+    "ko-KR": "손오공",
+    "de-DE": "Son Goku",
+    "fr-FR": "Son Goku",
+    "es-ES": "Son Goku"
+  },
+  "char.星之卡比": {
+    "zh-CN": "星之卡比",
+    "zh-TW": "星之卡比",
+    "ja-JP": "星のカービィ",
+    "en-US": "Kirby",
+    "ko-KR": "커비",
+    "de-DE": "Kirby",
+    "fr-FR": "Kirby",
+    "es-ES": "Kirby"
+  },
+  "char.未闻花名": {
+    "zh-CN": "未闻花名",
+    "zh-TW": "未聞花名",
+    "ja-JP": "あの日見た花の名前を僕達はまだ知らない。",
+    "en-US": "Anohana",
+    "ko-KR": "그날 본 꽃의 이름을 우리는 아직 모른다",
+    "de-DE": "Anohana",
+    "fr-FR": "Anohana",
+    "es-ES": "Anohana"
+  },
+  "char.贝吉塔": {
+    "zh-CN": "贝吉塔",
+    "zh-TW": "貝吉塔",
+    "ja-JP": "ベジータ",
+    "en-US": "Vegeta",
+    "ko-KR": "베지터",
+    "de-DE": "Vegeta",
+    "fr-FR": "Vegeta",
+    "es-ES": "Vegeta"
+  }
+}

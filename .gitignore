@@ -1,0 +1,46 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Build outputs
+output/
+*.class
+*.jar
+*.log
+
+# Engine binaries — built separately, see engine/README.md
+engine/jre*/
+engine/llama/
+engine/python3*/
+engine/flatlaf-*.jar
+engine/ShimejiEE*.jar
+engine/StartupLoader.class
+engine/conf/
+engine/img/
+engine/lib/
+engine/*.lck
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Decompiled Java (not source)
+decompiled/
+
+# Temporary / task artifacts
+*.tmp
+*.bak
+*~
+/tmp/
+JPetRemAI-repo/
+final-architecture.md
+*.md_*
+
+# Keep only engine/README.md (everything else in engine/ excluded by patterns above)python3-bundled-*.md

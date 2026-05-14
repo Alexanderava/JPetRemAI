@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>JPetRemAI</string>
+	<key>CFBundleDocumentTypes</key>
+	<array/>
+	<key>CFBundleExecutable</key>
+	<string>JPetRemAI</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.jpetrem.app.v5</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>JPetRemAI</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>500</string>
+	<key>LSBackgroundOnly</key>
+	<false/>
+	<key>LSMinimumSystemVersion</key>
+	<string>26.0</string>
+	<key>LSUIElement</key>
+	<false/>
+	<key>NSAccessibilityUsageDescription</key>
+	<string>JPetRemAI 需要辅助功能权限以获取窗口位置和实现桌面自动化</string>
+	<key>NSAppSleepDisabled</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>JPetRemAI 需要控制其他应用以实现桌面宠物功能</string>
+	<key>NSCameraUsageDescription</key>
+	<string>JPetRemAI 需要摄像头权限以识别用户表情</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>JPetRemAI 需要麦克风权限以进行语音对话</string>
+	<key>NSRequiresAquaSystemAppearance</key>
+	<string>No</string>
+	<key>UIRequiresPersistentWiFi</key>
+	<true/>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# goes to parent directory of script
+# https://stackoverflow.com/questions/6393551 
+cd "${0%/*}" || exit
+
+# disconnecting: https://unix.stackexchange.com/questions/3886
+nohup jre-mac/Home/bin/java -jar -Xdock:name="ShimejiEE" ShimejiEE.jar > nohup.out &
